@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "expect": "^1.20.2",
-    "localtunnel": "^1.8.2",
-    "mocha": "^3.4.2"
+    "localtunnel": "^1.9.2",
+    "mocha": "^3.5.3"
   },
   "engines": {
     "node": ">= 7.7.0",
